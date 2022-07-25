@@ -1,5 +1,5 @@
-Build A Twitter Trend Analyzer With AI - Analyse  Bollywood Trends					
- By-Rahul Choubey
+                                             Build A Twitter Trend Analyzer With AI - Analyse  Bollywood Trends					
+                                                  
 
 Abstract:
 Everyday a twitter user faces different kinds of data based on many fields. It is almost like a dream to analyze that huge amount of data and find the latest trend going on. Every tweet has certain purpose and talks about a problem or discussion. By the analysis of twitter data most of the companies can crack the code to success in today’s world, they can easily obtain information about, what is going on today. So this way, we can understand the importance of twitter trend analysis.
@@ -37,6 +37,9 @@ Below You can see a wordcloud:
 
 
 
+![wordcloud](https://user-images.githubusercontent.com/54790163/180709570-597d11f4-bb16-4916-ae83-0e68569187af.png)
+
+
 
 
 Observations:
@@ -44,6 +47,9 @@ In the above wordcloud we See that “Salman” word was most frequently used in
 
 3.Determining top trending Hashtags from Dataset and Visualizing a Bar Graph:
 As we Know hashtags start with ‘#’ so using regex library for pattern matching we determine all the hashtags and find the top Hashtags being used and determining their popularity. This is visualized using a bar graph by comparing the number of tweets posted for every top hashtag
+
+![bar graph](https://user-images.githubusercontent.com/54790163/180709372-e6024c49-e599-4bbb-a210-54c7219776c5.png)
+
 
 
 
@@ -60,6 +66,9 @@ Actors Analyzed for this project:
 For comparing above list of actors with each other Pie charts are best to use. They do not show changes over time.They not only visualize but also determine the % share of its labels(actors tweets) in its visualization .This helps in drawing Comparitive Statistics.
 
 
+
+
+![Pie Chart](https://user-images.githubusercontent.com/54790163/180709780-636522e8-ecc3-412b-beaf-956877c524d2.png)
 
 
 
